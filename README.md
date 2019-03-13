@@ -16,6 +16,7 @@ From Botfather you can taken the token.
 Connect ESP8266 to Arduino as shown. Connect GPIO0 to ground and reset to reset of Arduino and upload the code.
 
 ![alt text](https://hackster.imgix.net/uploads/attachments/370699/wifitoarduino_nOSxabVyiU.jpg?auto=compress%2Cformat&w=1920&h=1080&fit=max)
+
 **4. The Code**
 Put your wifi credentials and bot token and upload the code.
 
