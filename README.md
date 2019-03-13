@@ -21,4 +21,4 @@ Put your wifi credentials and bot token and upload the code.
 
 **5. Test The Working**
 I here include the making and working of my project .
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LgPuunu8EnI/0.jpg?auto=compress%2Cformat&w=1920&h=1080&fit=max)](https://www.youtube.com/watch?v=LgPuunu8EnI)
+[![IMAGE ALT TEXT HERE](https://hackster.imgix.net/uploads/attachments/598419/untitled-1_ati0qeWQ7u.png?auto=compress%2Cformat&w=1920&h=1080&fit=max)](https://www.youtube.com/watch?v=LgPuunu8EnI)
